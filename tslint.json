@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "no-duplicate-variable": true,
+    "no-unused-variable": [ // The rule that is causing error: All imports are unused.
+      true
+    ],
+    "completed-docs": [ // These are needed for what I am trying to do
+      true
+    ]
+  }
+}
